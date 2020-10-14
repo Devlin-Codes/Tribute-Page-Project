@@ -1,6 +1,6 @@
 #main {
     text-align: center;
-    background: lightgray;
+    background: rgb(220, 220, 220);
 }
 
 #img-div {
@@ -8,9 +8,18 @@
 }
 
 #tribute-info {
-    padding: 0 500px 0 500px;
+    padding: 0 150px 0 150px;
 }
 
 p {
-    font-size: 1px;
+    font-size: 15px;
+}
+
+#img-caption {
+    padding: 15px;
+    font-size: 13px;
+}
+
+#headline {
+
 }
