@@ -1,0 +1,16 @@
+#main {
+    text-align: center;
+    background: lightgray;
+}
+
+#img-div {
+    background-color: white;
+}
+
+#tribute-info {
+    padding: 0 500px 0 500px;
+}
+
+p {
+    font-size: 1px;
+}
